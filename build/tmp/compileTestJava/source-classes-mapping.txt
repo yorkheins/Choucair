@@ -1,0 +1,4 @@
+com/bancolombia/certification/reto/stepdefinitions/RegisterUserInUtestStepDefinitions.java
+ com.bancolombia.certification.reto.stepdefinitions.RegisterUserInUtestStepDefinitions
+com/bancolombia/certification/reto/runners/RegisterUserInUtest.java
+ com.bancolombia.certification.reto.runners.RegisterUserInUtest
